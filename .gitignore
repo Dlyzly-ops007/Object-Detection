@@ -1,0 +1,20 @@
+# Virtual environment (this folder is the venv root)
+Lib/
+Scripts/
+Include/
+share/
+pyvenv.cfg
+
+# Large models - tfhub model auto-downloads, Vosk model is downloaded manually
+models/
+vosk-model-*/
+
+# Runtime output
+snapshots/
+recordings/
+__pycache__/
+*.pyc
+
+# Local tooling / scratch
+.claude/
+object_detection(old).py
