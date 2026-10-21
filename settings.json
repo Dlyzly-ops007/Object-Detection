@@ -1,0 +1,31 @@
+{
+  "camera_index": -1,
+  "resolution": "1920 x 1080",
+  "mirror": false,
+  "auto_start_camera": true,
+  "confidence": 0.5,
+  "max_detections": 21,
+  "watchlist": [
+    "person",
+    "dog",
+    "cat",
+    "cell phone",
+    "laptop"
+  ],
+  "show_only_watchlist": false,
+  "announce_only_watchlist": false,
+  "alert_on_watchlist": true,
+  "show_labels": true,
+  "show_scores": true,
+  "show_hud": true,
+  "privacy_blur": false,
+  "box_thickness": 2,
+  "tts_enabled": false,
+  "tts_rate": 170,
+  "tts_volume": 1.0,
+  "tts_voice": "",
+  "announce_cooldown": 3.0,
+  "announce_departures": false,
+  "voice_commands": false,
+  "mic_device": ""
+}
